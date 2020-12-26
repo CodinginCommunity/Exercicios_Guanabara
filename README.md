@@ -1,2 +1,4 @@
 # Exercicios_Guanabara
-Exercícios de Python do Curso em Vídeo resolvidos em diversas linguagens 
+_Exercícios de Python do Curso em Vídeo resolvidos em diversas linguagens_
+
+> Para adicionar um novo arquivo, cole dentro das pastas 
